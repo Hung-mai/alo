@@ -1,3 +1,5 @@
 {
-    "hexa": false
+    "hexa": false,
+    "car": true,
+    "plane": false,
 }
